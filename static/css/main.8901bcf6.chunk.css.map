@@ -1,0 +1,1 @@
+{"version":3,"sources":["User.scss","Todo.scss"],"names":[],"mappings":"AACE,YACE,YAAa,CCFjB,WACE,WAAY,CACb,eAGC,SAAU","file":"main.8901bcf6.chunk.css","sourcesContent":[".user {\n  &__name {\n    color: purple;\n  }\n}\n",".completed {\n  color: green;\n}\n\n.not-completed {\n  color: red;\n}\n"]}
